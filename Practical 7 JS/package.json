@@ -1,0 +1,10 @@
+{
+  "name": "dynamic-import-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js dynamic import demo with ESM and JSON assertions",
+  "main": "testDynamicImport.mjs",
+  "scripts": {
+    "start": "node testDynamicImport.mjs"
+  }
+}
